@@ -1,0 +1,1 @@
+- Began reading the ReAct paper. Learned that the paper was written based on experiments on LLMs or AI systems to evaluate their capacity to perform autonomous tasks.

@@ -21,23 +21,10 @@ My proof of work for the Deepseeds(SEED - @iwstech3) 30 Days challenge focused o
 
 ### 30-Day Progress Table
 
-| Day | Date | Topic | Status | Key Output / Links |
+| Day | Topic | Status | Key Output / Links |
 | :---: | :--- | :--- | :---: | :--- |
-| **01** | ... | ... | ⏳ Pending | [Learnings](week1/day01/learnings.md) • [Code](week1/day01/code/) |
-| **02** | ... | ... | ⏳ Pending | [Learnings](week1/day02/learnings.md) • [Code](week1/day02/code/) |
+| **01** | Started Reading ReAct paper | ✅ Done | [Learnings](week1/day01/learnings.md) • [Code](week1/day01/code/) |
+| **02** | ... | ⏳ Pending | [Learnings](week1/day02/learnings.md) • [Code](week1/day02/code/) |
+| **03** | ... | ⏳ Pending | [Learnings](week1/day03/learnings.md) • [Code](week1/day03/code/) |
 
 
----
-
-### Folder Structure
-
-```text
-.
-├── README.md              # Goals, track details, and daily progress table
-├── resources.md           # Books, papers, videos used
-├── presentation-slides/   # Sunday slide decks / demo links
-├── week1/                 # Week 1: Foundation (Days 01-07)
-├── week2/                 # Week 2: Building (Days 08-14)
-├── week3/                 # Week 3: Deepening (Days 15-21)
-└── week4/                 # Week 4: Capstone & Mastery (Days 22-30)
-```
