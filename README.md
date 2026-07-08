@@ -24,7 +24,7 @@ My proof of work for the Deepseeds(SEED - @iwstech3) 30 Days challenge focused o
 | Day | Topic | Status | Key Output / Links |
 | :---: | :--- | :--- | :---: | :--- |
 | **01** | Started Reading ReAct paper | ✅ Done | [Learnings](week1/day01/learnings.md) • [Code](week1/day01/code/) |
-| **02** | ... | ⏳ Pending | [Learnings](week1/day02/learnings.md) • [Code](week1/day02/code/) |
+| **02** | Devised and Wrote boilerplate tools and functions for agents | ✅ Done | [Learnings](week1/day02/learnings.md) • [Code](week1/day02/code/) |
 | **03** | ... | ⏳ Pending | [Learnings](week1/day03/learnings.md) • [Code](week1/day03/code/) |
 
 
