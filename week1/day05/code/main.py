@@ -10,7 +10,7 @@ def read_path(given_path: str = "") -> list:
     """Read the contents of a given folder on the pc"""
     target_path = os.path.abspath(os.path.join(HOME_DIR, given_path))
 
-    if os.path.commonpath(HOME_DIR) != os.path.commonpath([HOME_DIR, target_path]):
+    if os.path.commonpath([HOME_DIR]) != os.path.commonpath([HOME_DIR, target_path]):
         return [f"Access denied to {target_path}"]
     
     try:
@@ -36,7 +36,7 @@ def read_file(filename: str) -> str:
     except FileNotFoundError:
         return f"Error: File at {target_path} not found"
     except Exception as e:
-        return [f"Error: {str(e)}"]
+        return f"Error: {str(e)}"
 
 @app.tool()
 def write_file(filename: str, content: str) -> str:
@@ -44,7 +44,7 @@ def write_file(filename: str, content: str) -> str:
 
     target_path = os.path.abspath(os.path.join(HOME_DIR, filename))
 
-    if os.path.commonpath(HOME_DIR) != os.path.commonpath([HOME_DIR, target_path]):
+    if os.path.commonpath([HOME_DIR]) != os.path.commonpath([HOME_DIR, target_path]):
         return "Access denied. Operations out of the sandbox path is forbidden"
     
     try:
