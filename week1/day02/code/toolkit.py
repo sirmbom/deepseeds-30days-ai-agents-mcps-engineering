@@ -8,15 +8,18 @@ web_database = {
 def search_web(query) -> str:
     """
     Agent tool to "search" the web that takes parameter 'query' and tries to match it with any entries on the web, or in this case our dictionary
-    """
+    """ # DOCSTRING
 
     print("[TOOL] Executing search_web...\n")
+
+    # llm searches the web through api
 
     search_q = query.lower()
     if search_q in web_database:
         return web_database[search_q]
     else:
         return ("No results found for ", query)
+
 
 def read_file(path) -> str:
     """
@@ -68,6 +71,9 @@ def send_email(to, subject, body) -> str:
 
     print("------------------------------------------------")
     print("To: ", to, "\nSubject: ", subject, "\nBody: ", body)
+
+
+# Main Function
 
 loop = True
 
