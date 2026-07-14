@@ -1,3 +1,8 @@
+# environment and cache files
 .env
 __pycache__/
 *.pyc
+
+# chromadb files
+*.sqlite3
+*.bin
