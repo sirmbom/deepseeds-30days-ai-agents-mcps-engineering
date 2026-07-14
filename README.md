@@ -29,6 +29,7 @@ My proof of work for the Deepseeds(SEED - @iwstech3) 30 Days challenge focused o
 | **04** | A dive into nodes and graphs in Langgraph, built a research agent  | ✅ Done | [Learnings](week1/day04/learnings.md) • [Code](week1/day04/code/) |
 | **05** | Built an mcp server that exposes Windows PC user Filesystem to LLM/Agent | ✅ Done | [Learnings](week1/day05/learnings.md) • [Code](week1/day05/code/) |
 | **06** | Built an episodic memory vector database for agents | ✅ Done | [Learnings](week1/day06/learnings.md) • [Code](week1/day06/code/) |
-| **07** | --- | ⏳ Pending | [Learnings](week1/day07/learnings.md) • [Code](week1/day07/code/) |
+| **07** | Week One Gathering and Presentations | ✅ Done | [Learnings](week1/day07/learnings.md) • *No code today* |
+| **08** | --- | ⏳ Pending | [Learnings](week2/day08/learnings.md) • [Code](week2/day08/code/) |
 
 
