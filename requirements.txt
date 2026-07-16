@@ -2,6 +2,7 @@ langgraph==1.2.9
 openai-agents==0.18.2
 google-adk==2.4.0
 crewai==1.15.2
+pyautogen==0.10.0
 
 langchain==1.3.13
 langchain-community==0.4.2
