@@ -32,7 +32,7 @@ My proof of work for the Deepseeds(SEED - @iwstech3) 30 Days challenge focused o
 | **07** | Week One Gathering and Presentations | ✅ Done |      [Learnings](week1/day07/learnings.md) • _No code today_      |
 | **08** | Built a Content Creation and Research agent workflow using CrewAI | ✅ Done | [Learnings](week2/day08/learnings.md) • [Code](week2/day08/code/) |
 | **09** | Built a *coder and critic* agent system using [AG2](https://github.com/ag2ai/ag2.git). | ✅ Done | [Learnings](week2/day09/learnings.md) • [Code](week2/day09/code/) |
-| **10** | --- | ⏳ Pending | [Learnings](week2/day10/learnings.md) • [Code](week2/day10/code/) |
+| **10** | Apply Checkpointing, Time Travel and Human-In-The-Loop interruption for Langraph Agents | ⏳ Pending | [Learnings](week2/day10/learnings.md) • [Code](week2/day10/code/) |
 | **11** | --- | ⏳ Pending | [Learnings](week2/day11/learnings.md) • [Code](week2/day11/code/) |
 | **12** | --- | ⏳ Pending | [Learnings](week2/day12/learnings.md) • [Code](week2/day12/code/) |
 | **13** | --- | ⏳ Pending | [Learnings](week2/day13/learnings.md) • [Code](week2/day13/code/) |
