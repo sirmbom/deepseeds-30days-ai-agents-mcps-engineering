@@ -12,12 +12,10 @@ langchain-google-genai==4.2.7
 google-genai==2.11.0
 openai==2.45.0
 
-chromadb==1.5.9
-
 langsmith==0.10.5
 
 litellm==1.92.0
-pydantic==2.13.4
+tavily==1.1.0
 instructor==1.15.4
 
 python-dotenv==1.2.2
