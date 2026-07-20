@@ -36,7 +36,7 @@ My proof of work for the Deepseeds(SEED - @iwstech3) 30 Days challenge focused o
 | **11** | Study Agent Planning Strategies and implement the Plan-and-Execute strategy for a complex research task | ✅ Done | [Learnings](week2/day11/learnings.md) • [Code](week2/day11/code/) |
 | **12** | Build and Implement an MCP server to handle complex tasks | ✅ Done | [Learnings](week2/day12/learnings.md) • [Code](week2/day12/code/) |
 | **13** | Study and Implement Safety measures and fallbacks, and Guardrails for agents. | ✅ Done | [Learnings](week2/day13/learnings.md) • [Code](week2/day13/code/) |
-| **14** | --- | ⏳ Pending | [Learnings](week2/day14/learnings.md) • [Code](week2/day14/code/) |
+| **14** | Week Two Gathering and Presentations | ✅ Done | [Learnings](week2/day14/learnings.md) • *No code today ;)* |
 | **15** | --- | ⏳ Pending | [Learnings](week3/day15/learnings.md) • [Code](week3/day15/code/) |
 | **16** | --- | ⏳ Pending | [Learnings](week3/day16/learnings.md) • [Code](week3/day16/code/) |
 | **17** | --- | ⏳ Pending | [Learnings](week3/day17/learnings.md) • [Code](week3/day17/code/) |
