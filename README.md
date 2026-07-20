@@ -35,7 +35,7 @@ My proof of work for the Deepseeds(SEED - @iwstech3) 30 Days challenge focused o
 | **10** | Apply Checkpointing, Time Travel and Human-In-The-Loop interruption for Langraph Agents | �~\~E Done | [Learnings](week2/day10/learnings.md) • [Code](week2/day10/code/) |
 | **11** | Study Agent Planning Strategies and implement the Plan-and-Execute strategy for a complex research task | ✅ Done | [Learnings](week2/day11/learnings.md) • [Code](week2/day11/code/) |
 | **12** | Build and Implement an MCP server to handle complex tasks | ✅ Done | [Learnings](week2/day12/learnings.md) • [Code](week2/day12/code/) |
-| **13** | --- | ⏳ Pending | [Learnings](week2/day13/learnings.md) • [Code](week2/day13/code/) |
+| **13** | Study and Implement Safety measures and fallbacks, and Guardrails for agents. | ✅ Done | [Learnings](week2/day13/learnings.md) • [Code](week2/day13/code/) |
 | **14** | --- | ⏳ Pending | [Learnings](week2/day14/learnings.md) • [Code](week2/day14/code/) |
 | **15** | --- | ⏳ Pending | [Learnings](week3/day15/learnings.md) • [Code](week3/day15/code/) |
 | **16** | --- | ⏳ Pending | [Learnings](week3/day16/learnings.md) • [Code](week3/day16/code/) |
