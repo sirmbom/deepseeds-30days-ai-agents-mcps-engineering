@@ -4,7 +4,7 @@ from typing_extensions import TypedDict
 from pydantic import BaseModel, Field
 from langgraph.types import Command
 from langgraph.graph import StateGraph, START, END
-from langchain_google_genai import ChatGoogleGenAI
+from langchain_google_genai import ChatGoogleGenerativeAI
 
 # ==========================================
 # 📐 1. SCHEMA & STATE DEFINITIONS
@@ -36,7 +36,7 @@ class AgentState(TypedDict):
 
 def planner_node(state: AgentState) -> dict:
     # Use gemini-2.5-pro for macro-level tactical planning
-    llm = ChatGoogleGenAI(model="gemini-2.5-pro", temperature=0.0)
+    llm = ChatGoogleGenerativeAI(model="gemini-2.5-pro", temperature=0.0)
     
     # Binding our Pydantic Plan class schema directly to Gemini
     structured_llm = llm.with_structured_output(Plan)
@@ -130,7 +130,7 @@ def executor_node(state: AgentState) -> Command:
 # ==========================================
 
 def synthesizer_node(state: AgentState) -> dict:
-    llm = ChatGoogleGenAI(model="gemini-2.5-flash", temperature=0.3)
+    llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0.3)
     
     # If errors were accumulated along the loop, present a diagnosis report
     if state["error_logs"]:

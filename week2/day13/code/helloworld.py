@@ -4,7 +4,7 @@ from typing_extensions import TypedDict
 from pydantic import BaseModel, Field
 
 from langchain_core.messages import BaseMessage, HumanMessage, AIMessage
-from langchain_google_genai import ChatGoogleGenAI
+from langchain_google_genai import ChatGoogleGenerativeAI
 from langgraph.graph import StateGraph, START, END
 from langgraph.graph.message import add_messages
 from langgraph.types import Command  # Modern inline routing mechanism
@@ -29,7 +29,7 @@ class SafetyAssessment(BaseModel):
 
 
 # Initialize our challenge-approved Gemini Model
-model = ChatGoogleGenAI(model="gemini-2.5-flash", temperature=0.1)
+model = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0.1)
 safe_structured_model = model.with_structured_output(SafetyAssessment)
 
 def input_guardrail_node(state: AgentState) -> Command[Literal["researcher", "__end__"]]:
