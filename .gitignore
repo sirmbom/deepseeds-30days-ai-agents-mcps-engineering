@@ -3,6 +3,10 @@
 __pycache__/
 *.pyc
 
+# adk files
+.adk/
+
 # chromadb files
 *.sqlite3
 *.bin
+*.db
