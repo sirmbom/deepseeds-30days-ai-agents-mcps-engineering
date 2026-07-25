@@ -40,7 +40,7 @@ My proof of work for the Deepseeds(SEED - @iwstech3) 30 Days challenge focused o
 | **15** | Study and Build with the Google ADK and compare to other Agent Development Frameworks. | ✅ Done | [Learnings](week3/day15/learnings.md) • [Code](week3/day15/code/) |
 | **16** | Study the Vercel AI SDK and use it to render components for agents. | ✅ Done | [Learnings](week3/day16/learnings.md) • [Code](week3/day16/code/) |
 | **17** | Study task completion rate, tool call accuracy, number of steps to completion, and cost per task in regards to Agent Evaluation. | ✅ Done | [Learnings](week3/day17/learnings.md) • [Code](week3/day17/code/) |
-| **18** | --- | ⏳ Pending | [Learnings](week3/day18/learnings.md) • [Code](week3/day18/code/) |
+| **18** | Contribute to AI Agent Open Source(Langgraph, AutoGen, CrewAI) | ⏳ Pending | [Learnings](week3/day18/learnings.md) • [Code](week3/day18/code/) |
 | **19** | --- | ⏳ Pending | [Learnings](week3/day19/learnings.md) • [Code](week3/day19/code/) |
 | **20** | --- | ⏳ Pending | [Learnings](week3/day20/learnings.md) • [Code](week3/day20/code/) |
 | **21** | --- | ⏳ Pending | [Learnings](week3/day21/learnings.md) • [Code](week3/day21/code/) |
