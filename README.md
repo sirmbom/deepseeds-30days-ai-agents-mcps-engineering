@@ -32,7 +32,7 @@ My proof of work for the Deepseeds(SEED - @iwstech3) 30 Days challenge focused o
 | **07** | Week One Gathering and Presentations | ✅ Done |[Learnings](week1/day07/learnings.md) • _No code today_ |
 | **08** | Built a Content Creation and Research agent workflow using CrewAI | ✅ Done | [Learnings](week2/day08/learnings.md) • [Code](week2/day08/code/) |
 | **09** | Built a _coder and critic_ agent system using [AG2](https://github.com/ag2ai/ag2.git). | ✅ Done | [Learnings](week2/day09/learnings.md) • [Code](week2/day09/code/) |
-| **10** | Apply Checkpointing, Time Travel and Human-In-The-Loop interruption for Langraph Agents  | �~\~E Done | [Learnings](week2/day10/learnings.md) • [Code](week2/day10/code/) |
+| **10** | Apply Checkpointing, Time Travel and Human-In-The-Loop interruption for Langraph Agents  | ✅ Done | [Learnings](week2/day10/learnings.md) • [Code](week2/day10/code/) |
 | **11** | Study Agent Planning Strategies and implement the Plan-and-Execute strategy for a complex research task | ✅ Done | [Learnings](week2/day11/learnings.md) • [Code](week2/day11/code/) |
 | **12** | Build and Implement an MCP server to handle complex tasks | ✅ Done | [Learnings](week2/day12/learnings.md) • [Code](week2/day12/code/) |
 | **13** | Study and Implement Safety measures and fallbacks, and Guardrails for agents. | ✅ Done | [Learnings](week2/day13/learnings.md) • [Code](week2/day13/code/) |
@@ -43,7 +43,7 @@ My proof of work for the Deepseeds(SEED - @iwstech3) 30 Days challenge focused o
 | **18** | Contribute to AI Agent Open Source(Langgraph, AutoGen, CrewAI) | ⏳ Pending | [Learnings](week3/day18/learnings.md) • [Code](week3/day18/code/) |
 | **19** | --- | ⏳ Pending | [Learnings](week3/day19/learnings.md) • [Code](week3/day19/code/) |
 | **20** | --- | ⏳ Pending | [Learnings](week3/day20/learnings.md) • [Code](week3/day20/code/) |
-| **21** | --- | ⏳ Pending | [Learnings](week3/day21/learnings.md) • [Code](week3/day21/code/) |
+| **21** | Gather at DeepSeed headquarters for weekly presentations. | ✅ Done | [Learnings](week3/day21/learnings.md) • [Code](week3/day21/code/) |
 | **22** | --- | ⏳ Pending | [Learnings](week4/day22/learnings.md) • [Code](week4/day22/code/) |
 | **23** | --- | ⏳ Pending | [Learnings](week4/day23/learnings.md) • [Code](week4/day23/code/) |
 | **24** | --- | ⏳ Pending | [Learnings](week4/day24/learnings.md) • [Code](week4/day24/code/) |
