@@ -43,14 +43,14 @@ My proof of work for the Deepseeds(SEED - @iwstech3) 30 Days challenge focused o
 | **18** | Contribute to AI Agent Open Source(Langgraph, AutoGen, CrewAI) | ⏳ Pending | [Learnings](week3/day18/learnings.md) • [Code](week3/day18/code/) |
 | **19** | --- | ⏳ Pending | [Learnings](week3/day19/learnings.md) • [Code](week3/day19/code/) |
 | **20** | --- | ⏳ Pending | [Learnings](week3/day20/learnings.md) • [Code](week3/day20/code/) |
-| **21** | Gather at DeepSeed headquarters for weekly presentations. | ✅ Done | [Learnings](week3/day21/learnings.md) • [Code](week3/day21/code/) |
+| **21** | Gather at DeepSeed headquarters for weekly presentations. | ✅ Done | [Learnings](week3/day21/learnings.md) • _No code today ;)_ |
 | **22** | --- | ⏳ Pending | [Learnings](week4/day22/learnings.md) • [Code](week4/day22/code/) |
 | **23** | --- | ⏳ Pending | [Learnings](week4/day23/learnings.md) • [Code](week4/day23/code/) |
 | **24** | --- | ⏳ Pending | [Learnings](week4/day24/learnings.md) • [Code](week4/day24/code/) |
 | **25** | --- | ⏳ Pending | [Learnings](week4/day25/learnings.md) • [Code](week4/day25/code/) |
 | **26** | --- | ⏳ Pending | [Learnings](week4/day26/learnings.md) • [Code](week4/day26/code/) |
 | **27** | --- | ⏳ Pending | [Learnings](week4/day27/learnings.md) • [Code](week4/day27/code/) |
-| **28** | --- | ⏳ Pending | [Learnings](week4/day28/learnings.md) • [Code](week4/day28/code/) |
+| **28** | Week Four Gathering and Presentations | ✅ Done | [Learnings](week4/day28/learnings.md) • _No code today ;)_ |
 | **29** | --- | ⏳ Pending | [Learnings](week4/day29/learnings.md) • [Code](week4/day29/code/) |
 | **30** | --- | ⏳ Pending | [Learnings](week4/day30/learnings.md) • [Code](week4/day30/code/) |
 

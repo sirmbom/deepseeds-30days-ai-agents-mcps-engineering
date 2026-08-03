@@ -8,5 +8,6 @@ No meeting was held today.
 
 The Deepseeds will come back stronger.
 
-This was Day 28.
+This was Day 28
+
 Unto the next. Godspeed!
