@@ -4,4 +4,10 @@
 
 This is the week of proof.
 
-We'll make it count!
+The week was wuite uneventful. No weekly meeting this time around.
+
+Deepseeds will have to do better.
+
+The challenge ends soon...
+
+How far have the Deepseeds gone?
