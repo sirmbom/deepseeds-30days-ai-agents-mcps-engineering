@@ -15,12 +15,14 @@ A workflow(graph) is initialised with a Stategraph object from the Langgraph.gra
 
 Then, various methods are applied to it to create the flow like
 
-- add_node, which creates a node by taking a function and assigns it a name
-- add_edge, which takes the names of two nodes as argument, which forms a direct link between them
-- START/END, which are used as the first arg, at the first edge, and used as the last arg on the last edge respectively.
-- add_conditional_edge, which takes the name of a node, and then a decision/route funtion that uses a condition to check which node to proceed to, and then moves the workflow in that direction.
+- `add_node`, which creates a node by taking a function and assigns it a name
+- `add_edge`, which takes the names of two nodes as argument, which forms a direct link between them
+- `START`/`END`, which are used as the first arg, at the first edge, and used as the last arg on the last edge respectively.
+- `add_conditional_edge`, which takes the name of a node, and then a decision/route funtion that uses a condition to check which node to proceed to, and then moves the workflow in that direction.
 
-compile() to package the workflow for execution
+- `compile()` to package the workflow for execution
+
+---
 
 So that's pretty much it for today. Make sure to visit the [code](code/main.py).
 Unto the next. Godspeed!
