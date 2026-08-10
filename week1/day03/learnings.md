@@ -9,11 +9,14 @@ Ohh but that was just the beginning... Since I couldn't get over my love for the
 Then I proceeded to code.
 
 - I had to add a model field to all my Agent objects. To do this, I had to initialise a gemini client(with the my gemini api key and the base url which we would route all traffic through) and then pass this client into the configuration for the gemini model.
-- I used new modules like asyncio, new objects and methods like AsyncOpenAI, function_tool, set_tracing_disabled etc
+- I used new modules like `asyncio`, new objects and methods like `AsyncOpenAI`, `function_tool`, `set_tracing_disabled` etc
 
-The game changer was the state['active_agent'] which is a global variable that takes the name of the agent to be returned after a tool is called. This helped ensure that the Agents actually switched after a tool call.
+The game changer was the `state['active_agent']` which is a global variable that takes the name of the agent to be returned after a tool is called. This helped ensure that the Agents actually switched after a tool call.
 
-Most of my errors arose from using wrong object attributes for example, Runner.run_sync was Runner.run before, state["active_agent"].name was once turn_result.last_agents(which kept using the name of the previous agent instead), messages.append(f"...") was once messages.extend. These challenges with attribute methods made me appreciate the importance of intellisense which shows me the description of a function and its parameters and helped me build a more solid foundation in this gemini integration aspect.
+Most of my errors arose from using wrong object attributes for example, `Runner.run_sync` was `Runner.run` before, `state["active_agent"].name` was once `turn_result.last_agents`(which kept using the name of the previous agent instead), `messages.append(f"...")` was once `messages.extend`. These challenges with attribute methods made me appreciate the importance of intellisense which shows me the description of a function and its parameters and helped me build a more solid foundation in this gemini integration aspect.
 
 Allat just to find out I could have used LiteLLM package to host the tunnel to write the trafiic and then leave my code unchanged. I'll probably do this in the coming few days.
+
+---
+
 Anyways, it was fun. Unto the next. Godspeed!!
