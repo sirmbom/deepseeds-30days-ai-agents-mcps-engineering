@@ -1,4 +1,6 @@
-### This is Day 05 of the challenge and today we learned how to create and serve tools using the MCP architecture.
+### This is Day 05.
+
+Today we learned how to create and serve tools using the MCP architecture.
 
 I've always wondered how MCPs worked BTS. I'm glad that I got to learn about it and get to know the core elements it constitutes while also creating [mine](./code/helloworld.py) for the first time.
 
@@ -24,5 +26,7 @@ The main string visible throughout is `os.path`, and I used methods like:
 So `os` definitely had something... a lot to say. That's day 05.
 
 I plan to configure a Gemini LLM to use this to give me a better understanding of how the MCP server is utilized.
+
+---
 
 Day 05 was crazy indeed. Onto the next. Godspeed! 🏁
