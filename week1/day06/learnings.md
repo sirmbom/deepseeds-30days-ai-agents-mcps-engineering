@@ -1,4 +1,6 @@
-### This is Day 06 and what a day it was. Today, the task was to learn about the different types of memory agents use and to implement one of those types for an agent. It was hell... but my skills are mad cold so there was no way I was conceding.
+### This is Day 06.
+
+What a day it was. Today, the task was to learn about the different types of memory agents use and to implement one of those types for an agent. It was hell... but my skills are mad cold so there was no way I was conceding.
 
 The different types of agent memory are: working, episodic, procedural and semantic memory.
 
@@ -37,4 +39,7 @@ Then I stepped into [the actual task](code/main.py) and it made a joke of me. I 
 For my difficulties, I had an issue with conditions involving `not` and then comparisons with `and` and `or`. I had to dry-run the conditions to fully grasp what was going on, but I understood at the end.
 
 I plan to give an LLM or agent access to this memory class and see how it performs.
+
+---
+
 Crazy day today. Unto the next. Godspeed!
