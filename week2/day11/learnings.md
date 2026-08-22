@@ -17,9 +17,11 @@ But here are some things that still got me invested on this day:
 
 - I got to actually plan and reason how to write complex code and build agent workflows.
 - Used Pydantic `BaseModel` models to create templates for the tasks to be stored and their attributes
-- Actually added an LLM this time(gemini) using langchain_google_genai library alongside the `ChatGoogleGenerativeAI` type for LLM definition.
-- Used the `.with_structured_output()` method on the defined LLM and passed the model holding all the tasks(which I defined as `Plan`)` to ensure the LLM returns data in the format suggested by the model.
+- Actually added an LLM this time(gemini) using `langchain_google_genai` library alongside the `ChatGoogleGenerativeAI` type for LLM definition.
+- Used the `.with_structured_output()` method on the defined LLM and passed the model holding all the tasks(which I defined as `Plan`) to ensure the LLM returns data in the format suggested by the model.
 
 My only challenge this day was not having the time to actually program the code/workflow to carry out specific tasks and optimize it for better performance. Which led me not to run it to test it's performance. I'll get that when next I'm back here.
+
+---
 
 This was Day 11. Unto the next. Godspeed!
