@@ -12,7 +12,7 @@ This day revolved around three main tools for the MCP server: **A Database Reade
 
 I learned and got to understand the following today:
 
-- sqlite3(much like pyscopg for PostgreSQL) requires a connector. This connector may be a file, for sqlite in this case, or a connection url for a remote DB.
+- `sqlite3`(much like `pyscopg` for PostgreSQL) requires a connector. This connector may be a file, for sqlite in this case, or a connection url for a remote DB.
 - a method called `cursor`, I'll say is the navigator used for a sqlite DB
 - revision for methods I had seen before: `.startswith()`, `.strip()`, `.upper()`
 - list comprehension provided by python makes a lot easier and helps to loop and assign on the same line. Emphasis on this gave a lot of clarity.
@@ -22,5 +22,7 @@ I learned and got to understand the following today:
 - `json.dumps()` is used when converting a JSON or dict obj to a string. The `dumps` actually stands for **dump s** where **s** stands for _string_. The JSON or dict obj is passed to the function and then an `indent: int` can also be passed to tell the function to add line breaks or spaces before the line(paragraphing), which is known as _pretty printing_
 
 Today touched on previously studied concepts so I barely had any challenges. Now all that remains is running it on an actual LLM and building my own MCP client with, I believe Langchain, to have more control over the execution and monitor it closely.
+
+---
 
 This was Day 12. Unto the next. Godspeed!
