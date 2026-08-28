@@ -12,4 +12,6 @@ I touched on the following today:
 - Rate limiting: Sets a limit on the number of calls an agent can make over a certain period
 - Scope Limiting: Limits the Agent from accessing particualr tools.
 
+---
+
 This was Day 13. Unto the next. Godspeed!
